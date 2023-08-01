@@ -1,6 +1,11 @@
 .background {
     background: linear-gradient(180deg, #ebf1ff, #ffffff, #ebf1ff);
     padding-bottom: 50px;
+
+    
+background-image:  radial-gradient(#444cf7 0.5px, transparent 0.5px), radial-gradient(#444cf7 0.5px, #ebf1ff 0.5px);
+background-size: 30px 30px;
+background-position: 0 0,10px 10px;
   }
   
 
@@ -11,7 +16,7 @@
   .container1 {
     display: flex;
     justify-content: center;
-    background-color: rgb(21, 38, 99);
+    background-color: rgb(21, 38, 99);;
     border-bottom: white solid 15px;
   }
 
@@ -27,7 +32,7 @@
     font-size: 3rem;
     border: rgb(255, 255, 255) solid 5px;
     border-radius: 10px;
-    background-color: rgb(0, 73, 141);
+    background-color: rgb(11, 37, 129);
     color: white;
     padding: 10px ;
     text-align: center;
@@ -39,13 +44,8 @@
   }
   
 
-  
   .dark-blue {
-    color: rgb(0, 73, 141);
-    
-  }
-  .very-dark-blue {
-    color: rgb(21, 38, 99);
+    color: rgb(21, 38, 99);;
   }
   .page-one {
     font-family: 'Lucida Sans', 'Lucida Sans Regular', 'Lucida Grande', 'Lucida Sans Unicode', Geneva, Verdana, sans-serif;
@@ -56,6 +56,10 @@
 
   .about {
     background-color: #ebf1ff;
+    
+    background-image:  radial-gradient(#444cf7 0.5px, transparent 0.5px), radial-gradient(#444cf7 0.5px, #ebf1ff 0.5px);
+    background-size: 30px 30px;
+    background-position: 0 0,10px 10px;
   }
 
   .about h2 {
@@ -98,7 +102,7 @@
 
   .resume .grid div {
     text-align: center;
-    background-color: hsl(228, 100%, 96%);
+    background-color: #ebf1ff;
     border-radius: 10px;
     padding-right: 20px;
   }
@@ -115,8 +119,12 @@
   }
 
   .education {
-    background-color: rgb(227, 233, 255);
     padding-left: 10px;
+
+    opacity: 1;
+    background-image:  radial-gradient(#444cf7 0.5px, transparent 0.5px), radial-gradient(#444cf7 0.5px, #ebf1ff 0.5px);
+    background-size: 30px 30px;
+    background-position: 0 0,10px 10px;
   }
 
   .container3 {
@@ -196,7 +204,9 @@
 }
 
 .contact {
-    background-color: rgb(227, 233, 255);
+    background-image:  radial-gradient(#444cf7 0.5px, transparent 0.5px), radial-gradient(#444cf7 0.5px, #ebf1ff 0.5px);
+    background-size: 30px 30px;
+    background-position: 0 0,10px 10px;
 }
 
 .contact h3 {
