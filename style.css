@@ -311,5 +311,8 @@
         font-size: 0.8rem;
         font-family: 'Lucida Sans', 'Lucida Sans Regular', 'Lucida Grande', 'Lucida Sans Unicode', Geneva, Verdana, sans-serif;
       }
-    
+    .container5 img {
+        width: 100%;
+        height: auto;
+    }
 }
