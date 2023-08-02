@@ -235,6 +235,12 @@ background-position: 0 0,10px 10px;
     
 }
 
+.contact p {
+  text-align: center;
+  color: black;
+  font-size: 0.7rem;
+}
+
 
 a:hover{
     font-size: larger;
